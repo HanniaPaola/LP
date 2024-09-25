@@ -4,11 +4,18 @@
     justify-content: center;
     gap: 20px;
 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    min-height: 30vh; 
+
     background-image: url('https://img.freepik.com/fotos-premium/fondo-negro-estrellas-palabra-galaxia_931878-403.jpg?w=1060'); /* Cambia esto por la ruta de tu imagen */
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
     min-height: 30vh; 
+
+    
 }
 
 .custom-card {

@@ -5,6 +5,9 @@
     gap: 20px; 
     padding: 60px; 
     
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
     background-image: url('https://img.freepik.com/fotos-premium/fondo-negro-estrellas-palabra-galaxia_931878-403.jpg?w=1060'); /* Cambia esta ruta a la de tu imagen */
     background-size: cover; 
     background-position: center; 
@@ -24,10 +27,6 @@
     border: 1px solid #0f0f0f;
 }
 
-.my-background {
-    padding: 5px; 
-    border-radius: 5px; 
-}
 
 
 
