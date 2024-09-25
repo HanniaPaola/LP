@@ -1,0 +1,42 @@
+#main-header {
+	background: #333;
+	color: white;
+	height: 80px;
+}	
+	#main-header a {
+		color: white;
+	}
+
+nav {
+	float: right;
+}
+	nav ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		padding-right: 20px;
+	}
+	
+		nav ul li {
+			display: inline-block;
+			line-height: 80px;
+		}
+			
+			nav ul li a {
+				display: block;
+				padding: 0 10px;
+				text-decoration: none;
+			}
+			
+				nav ul li a:hover {
+					background: #0b76a6;
+				}
+
+.my-background {
+  background-image: url('https://img.freepik.com/foto-gratis/hermosas-constelaciones-planeta_23-2149988827.jpg?w=900&t=st=1727237604~exp=1727238204~hmac=7c812807561dbeab2a9b2b7bb1fe588e639cb16ba7547602a29839a0aec10b75');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  height: 400px; 
+  width: 100%;
+}

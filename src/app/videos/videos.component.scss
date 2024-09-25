@@ -1,0 +1,24 @@
+.video-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    gap: 40px; 
+    margin: 0 auto;
+    width: 100%; 
+    
+    
+    background-image: url('https://img.freepik.com/fotos-premium/fondo-negro-estrellas-palabra-galaxia_931878-403.jpg?w=1060'); /* Cambia esto por la ruta de tu imagen */
+    background-size: 100% auto; 
+    background-position: center; 
+    height: 80vh; 
+}
+
+video {
+    width: 45%; 
+    height: auto; 
+}
+
+
+
+
+

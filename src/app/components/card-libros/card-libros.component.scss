@@ -1,0 +1,36 @@
+.card-container {
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap; 
+    gap: 20px; 
+    padding: 60px; 
+    
+    background-image: url('https://img.freepik.com/fotos-premium/fondo-negro-estrellas-palabra-galaxia_931878-403.jpg?w=1060'); /* Cambia esta ruta a la de tu imagen */
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+.example-card {
+    width: 300px;
+    padding: 5px;
+    background: none; 
+    color: white; 
+    border-radius: 5px; 
+    text-align: center;
+    max-height: 800px; 
+
+    box-shadow: 0 4px 8px #ffffffeb; 
+    border: 1px solid #0f0f0f;
+}
+
+.my-background {
+    padding: 5px; 
+    border-radius: 5px; 
+}
+
+
+
+
+  
+  
